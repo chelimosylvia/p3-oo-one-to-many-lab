@@ -1,4 +1,4 @@
-import pytest
+import pytest # type: ignore
 from owner_pet import Pet, Owner
 
 def test_owner_init():
